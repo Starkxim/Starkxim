@@ -21,23 +21,29 @@
 
 ### 👨‍💻 Who Am I
 
-Hi there! I'm **Starkxim**, a passionate Full-Stack Developer with a love for creating innovative solutions and beautiful user experiences. I believe in the power of technology to transform ideas into reality.
+Hi there! I'm **Starkxim**, a Developer with a love for creating innovative solutions and beautiful user experiences. I believe in the power of technology to transform ideas into reality.
+I currently work in the automotive industry, writing SIL tests using CAPL language.
 
 ```typescript
 const starkxim = {
     pronouns: "He/Him",
     location: "🌍 China",
     languages: ["Chinese", "English"],
-    currentFocus: "Full-Stack Development",
-    funFact: "I debug with console.log and I'm not ashamed! 😄"
+    currentFocus: "Development and automotive test",
+    funFact: "Before joining my current company, I had no knowledge of the automotive industry and knew nothing about CAPL 😄"
 };
 ```
 
 ### 🎓 Education
 
+- **🏫 [Lomonosov Moscow State University/МГУ]** 
+  - 📚 Master's in Applied Mathmatics (2022 - 2024)
+  - 🏆 GPA: 3.5/4.0
+  - 🌟 Relevant Coursework: Monte Carlo methods, machine learning, differential games, game modeling applications, database management, numerical analysis, singular perturbation theory
+ 
 - **🏫 [Your University Name]** 
-  - 📚 Bachelor's/Master's in Computer Science (Year - Year)
-  - 🏆 GPA: X.X/4.0
+  - 📚 Bachelor's in Materials Science and Engineering (Year - Year)
+  - 🏆 GPA: 3.2/4.0
   - 🌟 Relevant Coursework: Data Structures, Algorithms, Web Development, Database Systems
 
 ### 💼 Professional Experience
@@ -56,26 +62,16 @@ const starkxim = {
 
 <div align="center">
 
-#### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 #### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 #### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 #### Tools & Technologies
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
@@ -142,26 +138,16 @@ const starkxim = {
 
 <div align="center">
 
-#### 前端技术
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 #### 后端技术
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 #### 数据库
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 #### 工具与技术
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
