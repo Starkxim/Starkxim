@@ -123,11 +123,11 @@ const starkxim = {
 ## 📊 GitHub Stats | GitHub统计
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Starkxim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Starkxim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Starkxim&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Starkxim&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -137,7 +137,7 @@ const starkxim = {
 ## 🏆 GitHub Trophies | GitHub奖杯
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Starkxim&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Starkxim&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
 ## 📈 Activity Graph | 活动图表
