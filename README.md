@@ -9,7 +9,7 @@
 
 <!-- Language Toggle -->
 <div align="center">
-  <a href="#english">🇺🇸 English</a> | 
+  <a href="#english">🇺🇸 English</a> |
   <a href="#chinese">🇨🇳 中文</a>
 </div>
 
@@ -22,7 +22,7 @@
 ### 👨‍💻 Who Am I
 
 Hi there! I'm **Starkxim**, a Developer with a love for creating innovative solutions and beautiful user experiences. I believe in the power of technology to transform ideas into reality.
-I currently work in the automotive industry, writing SIL tests using CAPL language.
+I currently work in the automotive industry, write industry-level software using C#, and sometimes assist in writing SIL tests using CAPL language.
 
 ```typescript
 const starkxim = {
@@ -36,62 +36,32 @@ const starkxim = {
 
 ### 🎓 Education
 
-- **🏫 [Lomonosov Moscow State University/МГУ]** 
+- **🏫 Lomonosov Moscow State University/МГУ**
   - 📚 Master's in Applied Mathmatics (2022 - 2024)
   - 🏆 GPA: 3.5/4.0
   - 🌟 Relevant Coursework: Monte Carlo methods, machine learning, differential games, game modeling applications, database management, numerical analysis, singular perturbation theory
- 
-- **🏫 [Your University Name]** 
-  - 📚 Bachelor's in Materials Science and Engineering (Year - Year)
+
+- **🏫 Shenzhen MSU-BIT University**
+  - 📚 Bachelor's in Materials Science and Engineering (2018 - 2022)
   - 🏆 GPA: 3.2/4.0
   - 🌟 Relevant Coursework: Data Structures, Algorithms, Web Development, Database Systems
 
 ### 💼 Professional Experience
 
-#### 🚀 **Senior Full-Stack Developer** | *Company Name* | *Year - Present*
-- 💡 Led development of scalable web applications serving 100K+ users
-- 🔧 Implemented microservices architecture reducing system latency by 40%
-- 👥 Mentored junior developers and conducted code reviews
+#### 🚀 **Senior Full-Stack Developer** | *Anhui Oakforesee Intellimobile Technology Co., Ltd.* | *2024 - Present*
 
-#### 💻 **Software Engineer** | *Previous Company* | *Year - Year*
-- 🌐 Developed responsive web applications using React and Node.js
-- 📊 Built RESTful APIs and integrated third-party services
-- ⚡ Optimized database queries improving performance by 50%
 
 ### 🛠️ Tech Stack
 
 <div align="center">
 
 #### Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![matlab](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=matlab&logoColor=white)
 #### Database
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 #### Tools & Technologies
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-### 🚀 Featured Projects
-
-#### 🌟 **E-Commerce Platform** | [Live Demo](https://example.com) | [GitHub](https://github.com/Starkxim/project)
-- 🛒 Full-featured e-commerce platform with payment integration
-- 🔧 **Tech Stack:** React, Node.js, MongoDB, Stripe API
-- 📈 **Impact:** Processed $100K+ in transactions, 95% user satisfaction
-
-#### 🤖 **AI-Powered Chat Application** | [Live Demo](https://example.com) | [GitHub](https://github.com/Starkxim/project)
-- 💬 Real-time chat with AI integration and sentiment analysis
-- 🔧 **Tech Stack:** Vue.js, Socket.io, Python, TensorFlow
-- 🎯 **Features:** Multi-language support, file sharing, emoji reactions
-
-#### 📊 **Data Visualization Dashboard** | [Live Demo](https://example.com) | [GitHub](https://github.com/Starkxim/project)
-- 📈 Interactive dashboard for business analytics
-- 🔧 **Tech Stack:** React, D3.js, Express.js, PostgreSQL
-- 💼 **Used by:** 50+ companies for data-driven decisions
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -103,7 +73,7 @@ const starkxim = {
 
 ### 👨‍💻 我是谁
 
-你好！我是 **Starkxim**，一名充满激情的全栈开发者，热爱创造创新的解决方案和美丽的用户体验。我相信技术的力量能够将想法转化为现实。
+你好！我是 **Starkxim**，一名充满激情的全栈开发者，热爱创造创新的解决方案和美丽的用户体验。我相信技术的力量能够将想法转化为现实。我目前在汽车行业工作，使用C#编写行业级软件，有时也会协助使用CAPL语言编写SIL测试。
 
 ```typescript
 const starkxim = {
@@ -111,63 +81,40 @@ const starkxim = {
     位置: "🌍 中国",
     语言: ["中文", "英文"],
     当前专注: "全栈开发",
-    有趣事实: "我用console.log调试，并且不感到羞耻！😄"
+    有趣事实: "在加入目前的公司之前，我对汽车行业一无所知，对CAPL也一窍不通 😄"
 };
 ```
 
 ### 🎓 教育背景
 
-- **🏫 [您的大学名称]** 
-  - 📚 计算机科学学士/硕士学位 (年份 - 年份)
-  - 🏆 GPA: X.X/4.0
+- **🏫 莫斯科国立大学/МГУ**
+  - 📚 应用数学硕士 (2022 - 2024)
+  - 🏆 GPA: 3.5/4.0
+  - 🌟 相关课程：蒙特卡洛方法、机器学习、微分博弈、博弈建模应用、数据库管理、数值分析、奇异摄动理论
+
+- **🏫 深圳北理莫斯科大学**
+  - 📚 材料科学与工程学士 (2018 - 2022)
+  - 🏆 GPA: 3.2/4.0
   - 🌟 相关课程：数据结构、算法、Web开发、数据库系统
+
 
 ### 💼 工作经历
 
-#### 🚀 **高级全栈开发工程师** | *公司名称* | *年份 - 至今*
-- 💡 主导开发服务10万+用户的可扩展Web应用
-- 🔧 实施微服务架构，系统延迟降低40%
-- 👥 指导初级开发者并进行代码审查
+#### 🚀 **高级全栈开发工程师** | *安徽橡树智能科技有限公司* | *2024 - 至今*
 
-#### 💻 **软件工程师** | *前公司* | *年份 - 年份*
-- 🌐 使用React和Node.js开发响应式Web应用
-- 📊 构建RESTful API并集成第三方服务
-- ⚡ 优化数据库查询，性能提升50%
 
 ### 🛠️ 技术栈
 
 <div align="center">
 
 #### 后端技术
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![matlab](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=matlab&logoColor=white)
 
 #### 数据库
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 #### 工具与技术
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-### 🚀 精选项目
-
-#### 🌟 **电商平台** | [在线演示](https://example.com) | [GitHub](https://github.com/Starkxim/project)
-- 🛒 功能完整的电商平台，集成支付功能
-- 🔧 **技术栈：** React, Node.js, MongoDB, Stripe API
-- 📈 **影响力：** 处理交易额超过10万美元，用户满意度95%
-
-#### 🤖 **AI智能聊天应用** | [在线演示](https://example.com) | [GitHub](https://github.com/Starkxim/project)
-- 💬 实时聊天，集成AI和情感分析
-- 🔧 **技术栈：** Vue.js, Socket.io, Python, TensorFlow
-- 🎯 **特性：** 多语言支持、文件分享、表情反应
-
-#### 📊 **数据可视化仪表板** | [在线演示](https://example.com) | [GitHub](https://github.com/Starkxim/project)
-- 📈 商业分析交互式仪表板
-- 🔧 **技术栈：** React, D3.js, Express.js, PostgreSQL
-- 💼 **使用者：** 50+公司用于数据驱动决策
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -201,19 +148,15 @@ const starkxim = {
 
 ## 🎯 Current Goals | 当前目标
 
-- 🌱 Learning: **Kubernetes, Microservices Architecture | 学习：Kubernetes, 微服务架构**
-- 🔭 Working on: **Open Source Contributions | 开源贡献**
-- 🎓 Exploring: **Machine Learning & AI | 机器学习与人工智能**
-- 📚 Reading: **System Design & Scalability | 系统设计与可扩展性**
+- 🌱 **Learning**: Deepening my knowledge in automotive software development and testing methodologies.
+- 🚀 **Project**: Building a personal project to automate vehicle diagnostics using CAPL and C#.
+- 🤝 **Networking**: Connecting with professionals in the automotive and software development industries.
 
 ## 📫 Connect With Me | 联系我
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-username)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-website.com)
+[![mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@czx.kim)[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://czx.kim)
 
 </div>
 
@@ -228,11 +171,11 @@ const starkxim = {
 </div>
 
 <div align="center">
-  
-  **Thanks for visiting! | 感谢访问！** 
-  
+
+  **Thanks for visiting! | 感谢访问！**
+
   *Let's connect and build something amazing together! | 让我们一起连接并构建令人惊叹的东西！*
-  
+
 </div>
 
 <!-- Easter egg -->
@@ -241,12 +184,12 @@ const starkxim = {
 <br>
 
 ```
-  ____  _             _    _           
- / ___|| |_ __ _ _ __| | _(_)_ __ ___  
- \___ \| __/ _` | '__| |/ / | '_ ` _ \ 
+  ____  _             _    _
+ / ___|| |_ __ _ _ __| | _(_)_ __ ___
+ \___ \| __/ _` | '__| |/ / | '_ ` _ \
   ___) | || (_| | |  |   <| | | | | | |
  |____/ \__\__,_|_|  |_|\_\_|_| |_| |_|
-                                      
+
 Thanks for checking out my profile!
 感谢查看我的个人资料！
 ```
