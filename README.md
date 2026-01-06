@@ -123,11 +123,11 @@ const starkxim = {
 ## 📊 Stats | 统计
 
 <div align="center">
-  <img src="https://github-readme-stats-starkxims-projects.vercel.app/api?username=Starkxim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-gray-theta-59.vercel.app/api?username=Starkxim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-starkxims-projects.vercel.app/api/top-langs/?username=Starkxim&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats-gray-theta-59.vercel.app/api/top-langs/?username=Starkxim&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
