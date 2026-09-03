@@ -48,8 +48,6 @@
 
 这是一个纯浏览器运行的天文应用，用于从预计算的 Gaia DR3 星表中寻找可能在未来某个生日附近抵达地球的恒星光线。我负责产品想法、需求拆解、使用流程、体验验证和迭代方向，代码主要由编程智能体实现。
 
-这里将它明确标注为 **AI 辅助产品实践**，而不是把智能体完成的全部代码包装成个人独立编码成果。
-
 ### 教育背景
 
 - **莫斯科国立大学** — 应用数学与信息学硕士
@@ -97,8 +95,6 @@ I am currently interested in C#/.NET, WPF, desktop engineering software, industr
 #### [Birthday Starlight · 生日星光](https://github.com/Starkxim/birthday-starlight-lab)
 
 Birthday Starlight is a browser-only astronomy application that searches a precomputed Gaia DR3 catalog for stars whose light may arrive near a future birthday. I defined the product idea, requirements, user flow, acceptance criteria, and iteration direction, while coding agents implemented most of the application.
-
-The project is presented transparently as an **AI-assisted product experiment**, not as a claim that I independently authored every line of code.
 
 ### Education
 
