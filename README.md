@@ -1,166 +1,68 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Starkxim!+%F0%9F%91%8B;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AFStarkxim!+%F0%9F%91%8B;Full-Stack+Developer;%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91%E8%80%85;Welcome+to+my+GitHub!;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84GitHub!" alt="Typing SVG" />
-</div>
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  About Me | 关于我
-</h1>
+# Cao Zixu · 曹子旭
 
-<!-- Language Toggle -->
-<div align="center">
-  <a href="#english">🇺🇸 English</a> |
-  <a href="#chinese">🇨🇳 中文</a>
-</div>
+**C# / .NET Software Engineer · WPF Desktop Applications · Automotive Engineering Tools**
 
----
-
-<div id="english">
-
-## 🇺🇸 English Version
-
-### 👨‍💻 Who Am I
-
-Hi there! I'm **Starkxim**, a Developer with a love for creating innovative solutions and beautiful user experiences.
-I currently work in the automotive industry, write industry-level software using C#, and sometimes assist in writing SIL tests using CAPL language.
-
-```typescript
-const starkxim = {
-    pronouns: "He/Him",
-    location: "🌍 China",
-    languages: ["Chinese", "English", "Russian"],
-    currentFocus: "C#Development and automotive test",
-    funFact: "Before joining my current company, I had no knowledge of the automotive industry and knew nothing about CAPL 😄"
-};
-```
-
-### 🎓 Education
-
-- **🏫 Lomonosov Moscow State University/МГУ**
-  - 📚 Master's in Applied Mathmatics (2022 - 2024)
-
-- **🏫 Shenzhen MSU-BIT University**
-  - 📚 Bachelor's in Materials Science and Engineering (2018 - 2022)
-
-### 💼 Professional Experience
-
-#### 🚀 **Full-Stack Developer** | *Anhui Oakforesee Intellimobile Technology Co., Ltd.* | *2024 - Present*
-
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-#### Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![matlab](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=matlab&logoColor=white)
-#### Database
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+[![Email](https://img.shields.io/badge/Email-hi%40czx.kim-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:hi@czx.kim)
+[![Website](https://img.shields.io/badge/Website-czx.kim-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://czx.kim)
 
 </div>
 
----
+## About / 关于我
 
-<div id="chinese">
+**中文**  
+我是一名专注于 **C#/.NET 桌面软件与工程工具** 的软件工程师，拥有近 2 年汽车电子相关开发与测试开发经验。实际工作涉及 WPF 业务功能、实时数据展示、测量文件回放、汽车文件解析、遗留系统维护和跨模块联调；也使用 CANoe/CAPL 编写过自动化测试用例，并经常使用 Python 完成脚本、数据处理和辅助工具开发。
 
-## 🇨🇳 中文版本
+**English**  
+I am a software engineer focused on **C#/.NET desktop applications and engineering tools**. My experience includes WPF feature development, real-time data visualization, measurement-file playback, automotive file parsing, legacy-system maintenance, and cross-module integration. I also have hands-on experience with CANoe/CAPL automation and use Python for scripting, data processing, and utility development.
 
-### 👨‍💻 我是谁
+> Most of my production work is proprietary. This profile therefore highlights public open-source contributions and personal experiments rather than employer source code.  
+> 我的主要生产项目属于公司内部代码，因此这里展示的是可公开验证的开源贡献和个人实践，不包含雇主源码或客户资料。
 
-你好！我是 **Starkxim**，一名充满激情的全栈开发者，热爱创造创新的解决方案和美丽的用户体验。我目前在汽车行业工作，使用C#编写行业级软件，有时也会协助使用CAPL语言编写SIL测试。
+## Focus / 技术方向
 
-```typescript
-const starkxim = {
-    代词: "他",
-    位置: "🌍 中国",
-    语言: ["中文", "英文", "俄文"],
-    当前专注: "C#开发和汽车测试",
-    有趣事实: "在加入目前的公司之前，我对汽车行业一无所知，对CAPL也一窍不通 😄"
-};
-```
+`C#` · `.NET 8` · `WPF` · `XAML` · `MVVM` · `Python` · `Git`
 
-### 🎓 教育背景
+- Windows desktop applications, engineering tools, and maintainable UI/business modules
+- Real-time data visualization, logging, file import, parsing, and playback
+- CAN / CAN FD / LIN · DBC / LDF / BLF · CANoe / CAPL
+- Linux / Docker · SQLite / PostgreSQL
+- Legacy-code analysis, debugging, stability work, and cross-module integration
 
-- **🏫 莫斯科国立大学/МГУ**
-  - 📚 应用数学硕士 (2022 - 2024)
+## Experience Snapshot / 经历概览
 
-- **🏫 深圳北理莫斯科大学**
-  - 📚 材料科学与工程学士 (2018 - 2022)
+- Developed and maintained production WPF/.NET desktop features, including data interaction, real-time charts, logging, project configuration, and measurement-file playback.
+- Built automotive file import and replay flows, including DBC/LDF text parsing and BLF integration through Vector tooling.
+- Wrote and maintained 100+ CANoe/CAPL black-box test cases; some scenarios supported automatic verdicts, while hardware-display checks remained manual.
+- Participated in customer-site troubleshooting, requirement clarification, code changes, demonstrations, and regression verification.
 
-### 💼 工作经历
+## Selected Open-Source Contributions / 开源贡献
 
-#### 🚀 **全栈开发工程师** | *安徽橡树智能科技有限公司* | *2024 - 至今*
+- **[EFeru/DbcParser #110](https://github.com/EFeru/DbcParser/pull/110)** — improved compatibility when `GenMsgCycleTime` is stored as a floating-point custom property, with behavior checked against Vector tooling. `C#` `.NET` `DBC`
+- **[srwi/EverythingToolbar #765](https://github.com/srwi/EverythingToolbar/pull/765)** — added a context-menu action for copying only the file name while preserving the existing clipboard workflow. `C#` `WPF`
+- **[srwi/EverythingToolbar #766](https://github.com/srwi/EverythingToolbar/pull/766)** — restored locale-aware font inheritance for settings and sort menus. `XAML` `WPF`
+- **[BCUninstaller/Bulk-Crap-Uninstaller #964](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller/pull/964)** — completed missing Simplified Chinese resources and validated the project build and `.resx` generation. `C#` `Localization`
+- **[CodeZeno/Claude-Code-Usage-Monitor #46](https://github.com/CodeZeno/Claude-Code-Usage-Monitor/pull/46)** — added Simplified Chinese localization and locale routing with build, format, and lint validation. `Rust` `Localization`
 
+## AI-Assisted Product Experiment / AI 辅助产品实践
 
-### 🛠️ 技术栈
+### [Birthday Starlight · 生日星光](https://github.com/Starkxim/birthday-starlight-lab)
 
-<div align="center">
+A browser-only astronomy application that searches a precomputed Gaia DR3 catalog for stars whose light may arrive near a future birthday. I defined the product idea, requirements, user flow, and iterative acceptance criteria; coding agents implemented the application under repeated review and feedback. The project is presented as an **AI-assisted product experiment**, not as a claim that I independently authored every line of its implementation.
 
-#### 后端技术
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![matlab](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=matlab&logoColor=white)
+这是一个纯浏览器运行的天文应用。我负责产品想法、需求拆解、使用流程、体验验证和迭代方向，代码主要由编程智能体实现。这里将它明确标注为 **AI 辅助产品实践**，而不是把智能体完成的全部代码包装成个人独立编码成果。
 
-#### 数据库
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+## Education / 教育背景
 
-</div>
+- **Lomonosov Moscow State University** — M.S. in Applied Mathematics and Informatics  
+  **莫斯科国立大学** — 应用数学与信息学硕士
+- **Shenzhen MSU-BIT University** — B.S. in Materials Science and Engineering  
+  **深圳北理莫斯科大学** — 材料科学与工程学士
 
----
+## Current Focus / 当前关注
 
-## 📊 Stats | 统计
-<div align="center">
-  <img src="https://vercel.czx.kim/api/top-langs/?username=Starkxim&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <a href="https://wakatime.com/@19c8db5c-5924-4b6a-9ec5-0704a0750227"><img src="https://wakatime.com/badge/user/19c8db5c-5924-4b6a-9ec5-0704a0750227.svg" alt="Total time coded since Mar 20 2025" /></a>
-</div>
-</div>
-
-## 🎯 Current Goals | 当前目标
-
-- 🌱 **Learning**: Deepening my knowledge in automotive software development and testing methodologies.
-- 🚀 **Project**: Building a personal project to automate vehicle diagnostics using CAPL and C#.
-- 🤝 **Networking**: Connecting with professionals in the automotive and software development industries.
-
-## 📫 Connect With Me | 联系我
-
-<div align="center">
-
-[![mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@czx.kim)[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://czx.kim)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Starkxim&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
-<div align="center">
-
-  **Thanks for visiting! | 感谢访问！**
-
-  *Let's connect and build something amazing together! | 让我们一起连接并构建令人惊叹的东西！*
-
-</div>
-
-<!-- Easter egg -->
-<details>
-<summary>🎉 Click for a surprise! | 点击查看惊喜！</summary>
-<br>
-
-```
-  ____  _             _    _
- / ___|| |_ __ _ _ __| | _(_)_ __ ___
- \___ \| __/ _` | '__| |/ / | '_ ` _ \
-  ___) | || (_| | |  |   <| | | | | | |
- |____/ \__\__,_|_|  |_|\_\_|_| |_| |_|
-
-Thanks for checking out my profile!
-感谢查看我的个人资料！
-```
-
-</details>
+- Building reliable and maintainable C#/.NET desktop software
+- Improving WPF performance, stability, and legacy-code maintainability
+- Automotive engineering data workflows and developer tools
+- Using coding agents transparently for exploration, implementation support, and iterative product development
