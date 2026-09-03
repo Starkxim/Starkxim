@@ -1,166 +1,109 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Starkxim!+%F0%9F%91%8B;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AFStarkxim!+%F0%9F%91%8B;Full-Stack+Developer;%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91%E8%80%85;Welcome+to+my+GitHub!;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84GitHub!" alt="Typing SVG" />
-</div>
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  About Me | 关于我
-</h1>
+# 曹子旭 · Cao Zixu
 
-<!-- Language Toggle -->
-<div align="center">
-  <a href="#english">🇺🇸 English</a> |
-  <a href="#chinese">🇨🇳 中文</a>
-</div>
+**C# / .NET 软件工程师 · WPF 桌面应用 · 汽车电子工程工具**  
+**C# / .NET Software Engineer · WPF Desktop Applications · Automotive Engineering Tools**
 
----
+[![Email](https://img.shields.io/badge/Email-hi%40czx.kim-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:hi@czx.kim)
+[![Website](https://img.shields.io/badge/Website-czx.kim-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://czx.kim)
 
-<div id="english">
-
-## 🇺🇸 English Version
-
-### 👨‍💻 Who Am I
-
-Hi there! I'm **Starkxim**, a Developer with a love for creating innovative solutions and beautiful user experiences.
-I currently work in the automotive industry, write industry-level software using C#, and sometimes assist in writing SIL tests using CAPL language.
-
-```typescript
-const starkxim = {
-    pronouns: "He/Him",
-    location: "🌍 China",
-    languages: ["Chinese", "English", "Russian"],
-    currentFocus: "C#Development and automotive test",
-    funFact: "Before joining my current company, I had no knowledge of the automotive industry and knew nothing about CAPL 😄"
-};
-```
-
-### 🎓 Education
-
-- **🏫 Lomonosov Moscow State University/МГУ**
-  - 📚 Master's in Applied Mathmatics (2022 - 2024)
-
-- **🏫 Shenzhen MSU-BIT University**
-  - 📚 Bachelor's in Materials Science and Engineering (2018 - 2022)
-
-### 💼 Professional Experience
-
-#### 🚀 **Full-Stack Developer** | *Anhui Oakforesee Intellimobile Technology Co., Ltd.* | *2024 - Present*
-
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-#### Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![matlab](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=matlab&logoColor=white)
-#### Database
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+[中文](#中文) · [English](#english)
 
 </div>
 
 ---
 
-<div id="chinese">
+## 中文
 
-## 🇨🇳 中文版本
+### 关于我
 
-### 👨‍💻 我是谁
+我是一名专注于 **C#/.NET 桌面软件与工程工具** 的软件工程师，拥有近 2 年汽车电子相关开发与测试开发经验。实际工作涉及 WPF 业务功能、实时数据展示、测量文件回放、汽车文件解析、遗留系统维护和跨模块联调；也使用 CANoe/CAPL 编写过自动化测试用例，并经常使用 Python 完成脚本、数据处理和辅助工具开发。
 
-你好！我是 **Starkxim**，一名充满激情的全栈开发者，热爱创造创新的解决方案和美丽的用户体验。我目前在汽车行业工作，使用C#编写行业级软件，有时也会协助使用CAPL语言编写SIL测试。
+目前关注合肥及江浙沪地区的 C#/.NET、WPF、上位机、工业软件和汽车工程工具相关机会。
 
-```typescript
-const starkxim = {
-    代词: "他",
-    位置: "🌍 中国",
-    语言: ["中文", "英文", "俄文"],
-    当前专注: "C#开发和汽车测试",
-    有趣事实: "在加入目前的公司之前，我对汽车行业一无所知，对CAPL也一窍不通 😄"
-};
-```
+> 我的主要生产项目属于公司内部代码，因此此主页只展示可以公开的信息和个人实践，不包含雇主源码、客户数据或内部资料。
 
-### 🎓 教育背景
+### 技术方向
 
-- **🏫 莫斯科国立大学/МГУ**
-  - 📚 应用数学硕士 (2022 - 2024)
+`C#` · `.NET 8` · `WPF` · `XAML` · `MVVM` · `Python` · `Git`
 
-- **🏫 深圳北理莫斯科大学**
-  - 📚 材料科学与工程学士 (2018 - 2022)
+- Windows 桌面应用、工程工具以及可维护的界面和业务模块
+- 实时数据可视化、日志处理、文件导入、解析与回放
+- CAN / CAN FD / LIN，以及 DBC / LDF / BLF 等汽车工程数据
+- CANoe / CAPL 自动化测试与黑盒验证
+- Linux / Docker，以及 SQLite / PostgreSQL 的基础使用与部署
+- 遗留代码分析、问题定位、稳定性优化和跨模块集成
 
-### 💼 工作经历
+### 经历概览
 
-#### 🚀 **全栈开发工程师** | *安徽橡树智能科技有限公司* | *2024 - 至今*
+- 使用 C#/.NET 与 WPF 开发和维护正式桌面功能，涉及数据交互、实时曲线、日志展示、工程配置和测量文件回放。
+- 搭建汽车文件导入与离线回放链路，包括 DBC/LDF 文本解析和基于 Vector 工具链的 BLF 集成。
+- 编写并维护 100+ CANoe/CAPL 黑盒测试用例；部分场景实现自动判定，实体器件显示类场景保留人工确认。
+- 参与客户现场问题排查、需求澄清、代码修改、功能演示和回归验证。
 
+### AI 辅助产品实践
 
-### 🛠️ 技术栈
+#### [生日星光 · Birthday Starlight](https://github.com/Starkxim/birthday-starlight-lab)
 
-<div align="center">
+这是一个纯浏览器运行的天文应用，用于从预计算的 Gaia DR3 星表中寻找可能在未来某个生日附近抵达地球的恒星光线。我负责产品想法、需求拆解、使用流程、体验验证和迭代方向，代码主要由编程智能体实现。
 
-#### 后端技术
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![matlab](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=matlab&logoColor=white)
+### 教育背景
 
-#### 数据库
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+- **莫斯科国立大学** — 应用数学与信息学硕士
+- **深圳北理莫斯科大学** — 材料科学与工程学士
 
-</div>
+### 当前关注
 
----
-
-## 📊 Stats | 统计
-<div align="center">
-  <img src="https://vercel.czx.kim/api/top-langs/?username=Starkxim&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <a href="https://wakatime.com/@19c8db5c-5924-4b6a-9ec5-0704a0750227"><img src="https://wakatime.com/badge/user/19c8db5c-5924-4b6a-9ec5-0704a0750227.svg" alt="Total time coded since Mar 20 2025" /></a>
-</div>
-</div>
-
-## 🎯 Current Goals | 当前目标
-
-- 🌱 **Learning**: Deepening my knowledge in automotive software development and testing methodologies.
-- 🚀 **Project**: Building a personal project to automate vehicle diagnostics using CAPL and C#.
-- 🤝 **Networking**: Connecting with professionals in the automotive and software development industries.
-
-## 📫 Connect With Me | 联系我
-
-<div align="center">
-
-[![mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@czx.kim)[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://czx.kim)
-
-</div>
+- 构建可靠、可维护的 C#/.NET 桌面软件
+- 改进 WPF 应用的性能、稳定性和遗留代码可维护性
+- 汽车工程数据流程、上位机软件和开发工具
+- 透明使用编程智能体进行调研、实现辅助、代码审查和产品迭代
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Starkxim&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</div>
+## English
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
+### About Me
 
-<div align="center">
+I am a software engineer focused on **C#/.NET desktop applications and engineering tools**, with nearly two years of experience in automotive software development and test development. My work has included WPF feature development, real-time data visualization, measurement-file playback, automotive file parsing, legacy-system maintenance, and cross-module integration. I also have hands-on experience with CANoe/CAPL automation and regularly use Python for scripting, data processing, and utility development.
 
-  **Thanks for visiting! | 感谢访问！**
+I am currently interested in C#/.NET, WPF, desktop engineering software, industrial software, and automotive tooling opportunities in Hefei and the Yangtze River Delta region.
 
-  *Let's connect and build something amazing together! | 让我们一起连接并构建令人惊叹的东西！*
+> Most of my production work is proprietary. This profile therefore presents only public information and personal experiments, without employer source code, customer data, or internal materials.
 
-</div>
+### Technical Focus
 
-<!-- Easter egg -->
-<details>
-<summary>🎉 Click for a surprise! | 点击查看惊喜！</summary>
-<br>
+`C#` · `.NET 8` · `WPF` · `XAML` · `MVVM` · `Python` · `Git`
 
-```
-  ____  _             _    _
- / ___|| |_ __ _ _ __| | _(_)_ __ ___
- \___ \| __/ _` | '__| |/ / | '_ ` _ \
-  ___) | || (_| | |  |   <| | | | | | |
- |____/ \__\__,_|_|  |_|\_\_|_| |_| |_|
+- Windows desktop applications, engineering tools, and maintainable UI and business modules
+- Real-time data visualization, logging, file import, parsing, and playback
+- CAN / CAN FD / LIN, together with automotive engineering data such as DBC / LDF / BLF
+- CANoe / CAPL automation and black-box validation
+- Basic Linux / Docker, SQLite, and PostgreSQL usage and deployment
+- Legacy-code analysis, debugging, stability work, and cross-module integration
 
-Thanks for checking out my profile!
-感谢查看我的个人资料！
-```
+### Experience Snapshot
 
-</details>
+- Developed and maintained production WPF/.NET desktop features, including data interaction, real-time charts, logging, project configuration, and measurement-file playback.
+- Built automotive file import and offline replay flows, including DBC/LDF text parsing and BLF integration through Vector tooling.
+- Wrote and maintained 100+ CANoe/CAPL black-box test cases; some scenarios supported automatic verdicts, while hardware-display checks remained manual.
+- Participated in customer-site troubleshooting, requirement clarification, code changes, demonstrations, and regression verification.
+
+### AI-Assisted Product Experiment
+
+#### [Birthday Starlight · 生日星光](https://github.com/Starkxim/birthday-starlight-lab)
+
+Birthday Starlight is a browser-only astronomy application that searches a precomputed Gaia DR3 catalog for stars whose light may arrive near a future birthday. I defined the product idea, requirements, user flow, acceptance criteria, and iteration direction, while coding agents implemented most of the application.
+
+### Education
+
+- **Lomonosov Moscow State University** — M.S. in Applied Mathematics and Informatics
+- **Shenzhen MSU-BIT University** — B.S. in Materials Science and Engineering
+
+### Current Focus
+
+- Building reliable and maintainable C#/.NET desktop software
+- Improving WPF performance, stability, and legacy-code maintainability
+- Automotive engineering data workflows, desktop tools, and developer tooling
+- Using coding agents transparently for research, implementation support, code review, and iterative product development
